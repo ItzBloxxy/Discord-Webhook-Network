@@ -1,4 +1,4 @@
-# Webhook Messenger
+# Discord Webhook Messenger
 
 A simple batch script for sending messages to a Discord webhook.
 
