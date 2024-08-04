@@ -9,7 +9,7 @@ A simple batch script for sending messages to a Discord webhook.
 
 ## Setup ⚙️
 
-1. **Download the Script**: Save the `webhook_messenger.bat` file to your computer. 📥
+1. **Download the File**: Save the `webhook_messenger.bat` file to your computer. 📥
 2. **Configure the Webhook URL**: Open the script in a text editor and replace `https://discord.com/api/webhooks/yourwebhookhere` with your actual Discord webhook URL. You can also change the title and color. ✍️
 
 ## Usage 🚀
