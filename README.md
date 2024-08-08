@@ -16,7 +16,7 @@ A simple batch script for sending messages to a Discord webhook.
 
 1. Run the `webhook_messenger.bat` file. 🎯
 2. Enter your message when prompted. 📝
-3. The message will be sent to your Discord channel. 📬
+3. The message will be sent to your Webhook. 📬
 
 ## Requirements 📋
 
