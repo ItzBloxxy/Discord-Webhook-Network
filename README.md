@@ -4,8 +4,6 @@ A simple batch script for sending messages to a Discord webhook.
 
 ## Features ✨
 
-Found a bug? contact itz_bloxxy
-
 - **Easy to use**: Enter your message and send it directly to your Webhook! 🗨️
 - **Compatibility**: Works only on Windows 7 through Windows 11. 🖥️
 
