@@ -1,5 +1,7 @@
 # 🚀 Discord Webhook Messenger 🚀
 
+Sorry no updates for a long time, but it's now time for more updates this year!
+
 A simple batch script for sending messages to a Discord webhook.
 
 ## Features ✨
