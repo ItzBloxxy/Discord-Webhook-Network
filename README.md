@@ -1,6 +1,6 @@
 # 🚀 Discord Webhook Messenger 🚀
 
-Sorry no updates for a long time, but it's now time for more updates this year! (UI REDESIGN, NEW FEATURES, IMPROVED LOGGING, OPTION TO DISABLE LOGGING AND OTHER!)
+Sorry no updates for a long time, but it's now time for more updates this year! (FEATURS REWORK, NEW FEATURES, IMPROVED LOGGING, OPTION TO DISABLE LOGGING AND OTHER!)
 
 A simple batch script for sending messages to a Discord webhook.
 
