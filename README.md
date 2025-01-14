@@ -1,11 +1,10 @@
 # 🚀 Discord Webhook Messenger 🚀
 
 # News! 📰
-DWN 1.3.2 is being worked on and will be released as a 1st preview. I't wont be a stable update.
+DWN 1.3.2 is being worked on and will be released as a 1st preview. I't wont be a full update.
 Here's the new update leaks:
 - **Improved messages for better understanding**
 - **Faster Script Perfomance**
-- **I will tell you more in 14-01-2025.**
 
 A simple batch script for sending messages to a Discord webhook.
 
