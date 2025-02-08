@@ -11,7 +11,7 @@ Here's the new update leaks:
 
 ## Features ✨
 - **Drag-and-Drop:** You can drag any file / media directly onto the script to send it to the webhook. 📤
-- **Customization:** You can now customize the app the way you want it! (Title, Color) 🖌️
+- **Customization:** You can customize the app the way you want it! (Title, Color) 🖌️
 - **Advanced Logging:** Detailed logging with a latency checker for performance and error tracking. 📊
 - **Easy to use**: Enter your message and send it directly to your Webhook! 🗨️
 
