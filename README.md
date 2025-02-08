@@ -26,7 +26,7 @@ Here's the new update leaks:
 
 ## Requirements 📋  
 
-- **cURL**: Ensure that `curl` is installed and available in your system's `PATH`. 🔧  
+- **curl**: Ensure that `curl` is installed and available in your system's `PATH`. 🔧  
 
 ## Limitations 🚧  
 
