@@ -16,13 +16,13 @@ Here's the new update leaks:
 - **Easy to use**: Enter your message and send it directly to your Webhook! 🗨️
 
 ## Setup ⚙️
-1. **Download the File**: Save the `webhook_messenger.bat` file. 📥
-2. **Configure the Webhook URL**: Open the script in a text editor and replace `https://discord.com/api/webhooks/yourwebhookhere` with your actual Discord webhook URL. You can also change the title and color. ✍️
+1. **Download the latest release**: https://github.com/ItzBloxxy/Discord-Webhook-Messenger/releases 📥
+2. **Configure the Webhook URL**: Open the script in a text editor and replace `https://discord.com/api/webhooks/yourwebhookhere` with your actual Discord webhook URL. 🪝
 
 ## Usage 🚀
 1. Run the `webhook_messenger.bat` file. 🎯
 2. Enter your message when prompted. 📝
-3. The message will be sent to your Webhook. 📬
+3. The message will be sent to directly to your Webhook. 📬
 
 ## Requirements 📋  
 - **Compatibility**: Works only on Windows 7 through Windows 11. 🖥️
@@ -30,8 +30,8 @@ Here's the new update leaks:
 
 ## Limitations 🚧  
 - Due to batch file limitations, some features may not work as expected.  
-- **Drag and Drop**: May not be fully functional.  
-- **Multi-line Input**: Typing text across multiple lines (e.g., pressing Enter between words) may not work properly:  
+- **Drag and Drop**: May not be fully functional or work as you expect.  
+- **Multi-line Input**: Typing text across multiple lines (e.g., pressing Enter between words) will not work:  
 
   ```
   Hello  
