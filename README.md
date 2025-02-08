@@ -24,6 +24,21 @@ Here's the new update leaks:
 2. Enter your message when prompted. 📝
 3. The message will be sent to your Webhook. 📬
 
-## Requirements 📋
+## Requirements 📋  
 
-- **curl**: Ensure that `curl` is installed and available in your system's PATH. 🔧
+- **cURL**: Ensure that `curl` is installed and available in your system's `PATH`. 🔧  
+
+## Limitations 🚧  
+
+- Due to batch file limitations, some features may not work as expected.  
+- **Drag and Drop**: May not be fully functional.  
+- **Multi-line Input**: Typing text across multiple lines (e.g., pressing Enter between words) may not work properly:  
+
+  ```
+  Hello  
+  World!  
+  ```
+
+## Recommendation 💡  
+
+- It is recommended to use `curl` **8.10.1 or higher** to improve script performance, fix potential issues, and access new features.  
