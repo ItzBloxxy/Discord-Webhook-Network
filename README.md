@@ -7,7 +7,7 @@ Here's the new update leaks:
 - **Improved error messages for better understanding**
 - **UI Improvements**
 - **Faster Script Perfomance**
-- **And other stuff**
+- **Drag-and-Drop Fixed**
 
 ## Features ✨
 - **Drag-and-Drop:** You can drag any file / media directly onto the script to send it to the webhook. 📤
