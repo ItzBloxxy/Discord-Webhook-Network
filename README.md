@@ -10,7 +10,7 @@ Here's the new update leaks:
 - **Drag-and-Drop Fixed**
 - **File size has been reduced.**
 - **Improved Logging**
-- **Title Discord Webhook Messenger `<version>` to DWN `<version>`
+- **Title Discord Webhook Messenger `<version>` to DWN `<version>`**
 - **Removed useless logging**
 
 ## Features ✨
