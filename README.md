@@ -2,7 +2,7 @@
 A basic batch script to send messages via a webhook using `curl`.
 
 # News! 📰
-**DWN 1.4.0** is being worked on and will be released soon.
+**DWM 1.4.0** is being worked on and will be released soon.
 Here's the new update leaks:
 - **Improved error messages for better understanding**
 - **UI Improvements**
@@ -10,7 +10,7 @@ Here's the new update leaks:
 - **Drag-and-Drop Fixed**
 - **File size has been reduced.**
 - **Improved Logging**
-- **Title Discord Webhook Messenger `<version>` to DWN `<version>`**
+- **Neww Title: DWN 1.4.0**
 - **Removed useless logging**
 
 ## Features ✨
