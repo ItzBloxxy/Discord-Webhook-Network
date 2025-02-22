@@ -10,7 +10,7 @@ Here's the new update leaks:
 - **Drag-and-Drop Fixed**
 - **File size has been reduced.**
 - **Improved Logging**
-- **Neww Title: DWN 1.4.0**
+- **New Title: DWN 1.4.0**
 - **Removed useless logging**
 
 ## Features ✨
