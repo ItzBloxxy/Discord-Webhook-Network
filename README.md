@@ -31,7 +31,6 @@ Here's the new update leaks:
 
 ## Limitations 🚧  
 - Due to batch file limitations, some features may not work as expected.  
-- **Drag and Drop**: May not be fully functional or work as you expect.  
 - **Multi-line Input**: Typing text across multiple lines (e.g., pressing Enter between words) will not work:  
 
   ```
