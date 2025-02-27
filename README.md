@@ -5,7 +5,7 @@ A basic batch script to send messages via a webhook using `curl`.
 **DWM 1.4.0** is being worked on and will be released soon.
 Here's the new update leaks:
 - **Improved error messages for better understanding**
-- **UI Improvements**
+- **Exciting UI Improvements**
 - **Faster Perfomance**
 - **Drag-and-Drop Fixed**
 - **File size has been reduced.**
