@@ -9,7 +9,7 @@ A basic batch script to send messages via a webhook using `curl`.
 ## Setup ⚙️
 1. **Download the latest release**: https://github.com/ItzBloxxy/Discord-Webhook-Messenger/releases 📥
 2. **Configure the Webhook URL**: Open the script in a text editor and replace `set-your-webhook-here` with your actual Discord webhook URL. 🪝
-3. Run the `webhook_messenger.bat` file. 🎯
+3. Run the `DWN.bat` file. 🎯
 4. Enter your message when prompted. 📝 (The message will be sent to directly to your Webhook!)
 
 ## Requirements 📋  
