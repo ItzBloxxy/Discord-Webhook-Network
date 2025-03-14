@@ -1,18 +1,6 @@
 # 🚀 Discord Webhook Network 🚀
 A basic batch script to send messages via a webhook using `curl`.
 
-# News! 📰
-**DWM 1.4.0** is being worked on and will be released soon.
-Here's the new update leaks:
-- **Improved error messages for better understanding**
-- **Exciting UI Improvements**
-- **Faster Perfomance**
-- **Drag-and-Drop Fixed**
-- **File size has been reduced.**
-- **Improved Logging**
-- **New Title: DWN 1.4.0**
-- **Removed useless logging**
-
 ## Features ✨
 - **Drag-and-Drop:** You can drag any file / media directly onto the script to send it to the webhook. 📤
 - **Customization:** You can customize the app the way you want it! (Title, Color) 🖌️
