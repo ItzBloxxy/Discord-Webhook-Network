@@ -26,4 +26,4 @@ A basic batch script to send messages via a webhook using `curl`.
   ```
 
 ## Recommendation 💡  
-- It is recommended to use `curl` **8.10.1 or higher** to improve script performance, fix potential issues, and access new features.  
+- It is recommended to use `curl` **8.10.1 or higher** to fix issues, and access new features.  
