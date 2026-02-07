@@ -2,7 +2,7 @@
 A basic batch script to send messages via a webhook using `curl`.
 
 > [!WARNING]
-> **This project is discontinued.**
+> **The Discord Webhook Network was officially announced as discontinued on the 7th Febraury, 2026.**
 
 ## Features ✨
 - **Drag and Drop files:** You can drag any type of file directly to the script to send it to the webhook. 
