@@ -1,7 +1,7 @@
 # 🚀 Discord Webhook Network 🚀
 A basic batch script to send messages via a webhook using `curl`.
 
-> [!NOTE]
+> [!WARNING]
 > **This project is discontinued.**
 
 ## Features ✨
